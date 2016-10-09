@@ -1,6 +1,4 @@
-VTU Result Notifier
-===================
-
+---------
 
 Tired of manually creating JIRA issues for every issue you receive from Zabbix (or any other monitoring tool)?
 Automate the issue creation using this script as your custom alert script in zabbix.
